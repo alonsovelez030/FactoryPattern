@@ -1,5 +1,5 @@
 {
-  "name": "command",
+  "name": "factory",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "nodemon",
     "build": "rimraf ./build && tsc",
-    "start": "npm run build && node build/invoker.js"
+    "start": "npm run build && node build/client.js"
   },
   "author": "Alonso Velez <alonso.velez@rappi.com>",
   "license": "MIT"

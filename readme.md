@@ -1,6 +1,6 @@
-# Command Pattern
+# Factory Method Pattern
 
-Esta es una adaptación a Typescript del patrón de diseño Command, en este proyecto puedes ver una lista de comandos básicos y una estructura de archivos segregada, de modo que la idea del patrón se pueda capturar de forma más simple.
+Esta es una adaptación a Typescript del patrón de diseño Factory Method.
 
 ## Como correr el proyecto?
 
@@ -14,7 +14,7 @@ npm install
 npm install -g typescript
 ```
 
- Puedes correr el proyecto para ver el resultado de los comandos Sumar, Restar y Dividir en la consola
+ Puedes correr el proyecto para ver el resultado en la consola
 ```bash
 npm run start
 ```
